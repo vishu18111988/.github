@@ -1,4 +1,4 @@
-# [MMDEV-11370](https://jira.bamtechmedia.com/browse/MMDEV-11370)
+# [JIRA_XXX](https://test.com)
 
 ## Type Of Change
 - [x] Feature (A new feature)
@@ -15,7 +15,7 @@
 ### Solution
 
 ## Related Tickets if any
-* [MMDEV-11358](https://jira.bamtechmedia.com/browse/MMDEV-11358)
+* [JIRA_XXX](https://test.com)
 
 ## Affects Which (Sub) Projects
 
