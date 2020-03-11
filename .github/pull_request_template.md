@@ -10,7 +10,7 @@
 - [ ] Chore (Fixing styling, formatting, anything not covered in the above)
 
 ## Brief Description
-### Problem:
+### Problem
 
 ### Solution
 
